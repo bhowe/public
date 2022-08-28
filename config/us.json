@@ -1,0 +1,323 @@
+{
+    "categories": [
+        {
+            "name": "Newspapers",
+            "linkname": "newspapers",
+            "sites": [
+                {
+                    "name": "Chicago Sun-Times",
+                    "domain": "https://suntimes.com",
+                    "twitter": "Suntimes"
+                },
+                {
+                    "name": "Chicago Tribune",
+                    "domain": "https://chicagotribune.com",
+                    "twitter": "chicagotribune"
+                },
+                {
+                    "name": "Daily News",
+                    "domain": "https://nydailynews.com",
+                    "twitter": "NYDailyNews"
+                },
+                {
+                    "name": "The Denver Post",
+                    "domain": "https://denverpost.com",
+                    "twitter": "denverpost"
+                },
+                {
+                    "name": "The Guardian",
+                    "domain": "https://theguardian.com",
+                    "twitter": "guardian"
+                },
+                {
+                    "name": "Los Angeles Times",
+                    "domain": "https://latimes.com",
+                    "twitter": "latimes"
+                },
+                {
+                    "name": "The New York Post",
+                    "domain": "https://nypost.com",
+                    "twitter": "nypost"
+                },
+                {
+                    "name": "The New York Times",
+                    "domain": "https://nytimes.com",
+                    "twitter": "nytimes"
+                },
+                {
+                    "name": "POLITICO",
+                    "domain": "https://politico.com",
+                    "twitter": "politico"
+                },
+                {
+                    "name": "Der Spiegel",
+                    "domain": "https://spiegel.de",
+                    "twitter": "SPIEGEL_English"
+                },
+                {
+                    "name": "USA Today",
+                    "domain": "https://usatoday.com",
+                    "twitter": "USATODAY"
+                },
+                {
+                    "name": "The Wall Street Journal",
+                    "domain": "https://wsj.com",
+                    "twitter": "wsj"
+                },
+                {
+                    "name": "Washington Post",
+                    "domain": "https://washingtonpost.com",
+                    "twitter": "washingtonpost"
+                }
+            ]
+        },
+        {
+            "name": "News",
+            "linkname": "news",
+            "sites": [
+                {
+                    "name": "ABC News",
+                    "domain": "abcnews.go.com"
+                },
+                {
+                    "name": "BBC",
+                    "domain": "https://bbc.com"
+                },
+                {
+                    "name": "Buzzfeed",
+                    "domain": "https://buzzfeed.com"
+                },
+                {
+                    "name": "CBS Sports",
+                    "domain": "https://cbssports.com"
+                },
+                {
+                    "name": "CNN",
+                    "domain": "https://cnn.com"
+                },
+                {
+                    "name": "Daily Mail",
+                    "domain": "https://dailymail.co.uk"
+                },
+                {
+                    "name": "ESPN",
+                    "domain": "espn.go.com"
+                },
+                {
+                    "name": "Forbes",
+                    "domain": "https://forbes.com"
+                },
+                {
+                    "name": "Fox News",
+                    "domain": "https://foxnews.com"
+                },
+                {
+                    "name": "NBC News",
+                    "domain": "https://nbcnews.com"
+                },
+                {
+                    "name": "NPR",
+                    "domain": "https://npr.org"
+                },
+                {
+                    "name": "Time Magazine",
+                    "domain": "time.com"
+                },
+                {
+                    "name": "TMZ",
+                    "domain": "https://tmz.com"
+                }
+            ]
+        },
+        {
+            "name": "Banking",
+            "linkname": "banking",
+            "sites": [
+                {
+                    "name": "Chase",
+                    "domain": "https://chase.com"
+                },
+                {
+                    "name": "Bank of America",
+                    "domain": "https://bankofamerica.com"
+                },
+                {
+                    "name": "Citi",
+                    "domain": "online.citibank.com"
+                },
+                {
+                    "name": "Wells Fargo",
+                    "domain": "https://wellsfargo.com"
+                },
+                {
+                    "name": "Bank of New York Mellon",
+                    "domain": "https://bnymellon.com"
+                },
+                {
+                    "name": "U.S. Bancorp",
+                    "domain": "https://usbank.com"
+                },
+                {
+                    "name": "HSBC",
+                    "domain": "https://hsbc.com"
+                },
+                {
+                    "name": "PNC",
+                    "domain": "https://pnc.com"
+                },
+                {
+                    "name": "Capital One",
+                    "domain": "https://capitalone.com"
+                },
+                {
+                    "name": "TD Bank",
+                    "domain": "https://tdbank.com"
+                }
+            ]
+        },
+        {
+            "name": "Travel",
+            "linkname": "travel",
+            "sites": [
+                {
+                    "name": "Southwest",
+                    "domain": "https://southwest.com"
+                },
+                {
+                    "name": "Delta",
+                    "domain": "https://delta.com"
+                },
+                {
+                    "name": "American Airlines",
+                    "domain": "https://aa.com"
+                },
+                {
+                    "name": "United Airlines",
+                    "domain": "https://united.com",
+                    "twitter": "United"
+                },
+                {
+                    "name": "Kayak",
+                    "domain": "https://kayak.com"
+                },
+                {
+                    "name": "Travelocity",
+                    "domain": "https://travelocity.com"
+                },
+                {
+                    "name": "Expedia",
+                    "domain": "https://expedia.com"
+                }
+            ]
+        },
+        {
+            "name": "Universities",
+            "linkname": "universities",
+            "sites": [
+                {
+                    "name": "Brown",
+                    "domain": "https://brown.edu"
+                },
+                {
+                    "name": "Columbia",
+                    "domain": "https://columbia.edu"
+                },
+                {
+                    "name": "Cornell",
+                    "domain": "https://cornell.edu"
+                },
+                {
+                    "name": "Dartmouth",
+                    "domain": "dartmouth.edu"
+                },
+                {
+                    "name": "Harvard",
+                    "domain": "https://harvard.edu"
+                },
+                {
+                    "name": "MIT",
+                    "domain": "web.mit.edu"
+                },
+                {
+                    "name": "Princeton",
+                    "domain": "https://princeton.edu"
+                },
+                {
+                    "name": "Stanford",
+                    "domain": "https://stanford.edu"
+                },
+                {
+                    "name": "University of Chicago",
+                    "domain": "https://uchicago.edu"
+                },
+                {
+                    "name": "University of Pennsylvania",
+                    "domain": "https://upenn.edu"
+                },
+                {
+                    "name": "Yale",
+                    "domain": "https://yale.edu"
+                }
+            ]
+        },
+        {
+            "name": "US Government",
+            "linkname": "usgov",
+            "sites": [
+                {
+                    "name": "National Weather Service",
+                    "domain": "https://weather.gov"
+                },
+                {
+                    "name": "Internal Revenue Service",
+                    "domain": "https://irs.gov"
+                },
+                {
+                    "name": "HealthCare.gov",
+                    "domain": "https://healthcare.gov"
+                },
+                {
+                    "name": "USAJOBS",
+                    "domain": "https://usajobs.gov"
+                },
+                {
+                    "name": "Citizenship and Immigration Services",
+                    "domain": "https://uscis.gov"
+                },
+                {
+                    "name": "Social Security Administration",
+                    "domain": "https://ssa.gov"
+                },
+                {
+                    "name": "NASA",
+                    "domain": "https://nasa.gov"
+                },
+                {
+                    "name": "National Oceanic and Atmospheric Administration",
+                    "domain": "https://noaa.gov"
+                },
+                {
+                    "name": "Federal Trade Commission",
+                    "domain": "https://ftc.gov"
+                },
+                {
+                    "name": "Office of Personnel Management",
+                    "domain": "https://opm.gov"
+                },
+                {
+                    "name": "EPA",
+                    "domain": "https://epa.gov"
+                },
+                {
+                    "name": "Bureau of Labor Statistics",
+                    "domain": "https://bls.gov"
+                },
+                {
+                    "name": "The White House",
+                    "domain": "https://whitehouse.gov",
+                    "twitter": "WHWeb"
+                }
+            ]
+        }
+    ]
+}
